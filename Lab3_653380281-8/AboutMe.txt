@@ -1,1 +1,3 @@
 Author: Waranya Hommuang
+Section: 1
+My personal quote: Live life as it comes.
